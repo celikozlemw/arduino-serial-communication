@@ -12,4 +12,4 @@ void loop() {
   delay(2000); //2000ms bekle
 
   Serial.println(voltaj);
-}
+ }
