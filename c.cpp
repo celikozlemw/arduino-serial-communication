@@ -9,4 +9,5 @@ int analogValue = analogRead(A3);
   Serial.println(güç);
 
 delay(100);
+  
 }
